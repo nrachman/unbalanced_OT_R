@@ -1,4 +1,4 @@
-#transport_stablev2 comes from https://github.com/broadinstitute/wot/blob/master/wot/ot/ot_model.py
+#transport_stablev2 comes from https://github.com/broadinstitute/wot/blob/master/wot/ot/optimal_transport.py
 # If I remember correctly, this is  algorithm 2 of Chizat 2016 - Scaling Algorithms for Unbalanced Transport Problems
 # https://arxiv.org/abs/1607.05816
 
