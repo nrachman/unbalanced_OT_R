@@ -21,7 +21,7 @@
 # extra_iter <- 1000
 
 transport_stablev2 <- function(C, lambda1 = 1, lambda2 = 50, epsilon = .05, scaling_iter = 3000, G = NULL, tau = 10000, epsilon0 = 1,
-                               extra_iter = 1000, inner_iter_max = , ...) {
+                               extra_iter = 1000, inner_iter_max = 50, ...) {
   
   # """
   #   Compute the optimal transport with stabilized numerics.
